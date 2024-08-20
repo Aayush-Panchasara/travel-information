@@ -1,0 +1,460 @@
+{
+    "states": [
+        {
+           "Andhra Pradesh": {
+                "Anantapur": ["Lepakshi Temple", "Penukonda Fort", "Puttaparthi (Prasanthi Nilayam)"],
+                "Chittoor": ["Sri Venkateswara Temple", "Talakona Waterfalls", "Chandragiri Fort"],
+                "East Godavari": ["Konaseema", "Draksharamam Temple", "Rajahmundry (Godavari Bridge)"],
+                "Guntur": ["Amaravati Stupa", "Kondaveedu Fort", "Uppalapadu Bird Sanctuary"],
+                "Kadapa": ["Gandikota", "Vontimitta (Kodanda Ramaswamy Temple)", "Pushpagiri Temples"],
+                "Krishna": ["Vijayawada (Kanaka Durga Temple)", "Machilipatnam Beach", "Kondapalli Fort"],
+                "Kurnool": ["Belum Caves", "Ahobilam Temple", "Oravakallu Rock Garden"],
+                "Nellore": ["Penchalakona Temple", "Sri Ranganathaswamy Temple", "Pulicat Lake"],
+                "Prakasam": ["Kothapatnam Beach", "Bhairavakona Caves and Temples", "Cumbum Lake"],
+                "Srikakulam": ["Arasavalli Sun Temple", "Kalingapatnam Beach", "Srikurmam Temple"],
+                "Tirupati": ["Sri Venkateswara Temple", "Talakona Waterfalls", "Chandragiri Fort"],
+                "Visakhapatnam": ["Ramakrishna Beach", "Kailasagiri", "Araku Valley"],
+                "Vizianagaram": ["Thotlakonda Buddhist Complex", "Ramatheertham", "Bobbili Fort"],
+                "West Godavari": ["Dwaraka Tirumala (Chinna Tirupati)", "Eluru (Kolleru Lake)", "Perupalem Beach"],
+                "YSR Kadapa": ["Ameen Peer Dargah (Pedda Dargah)", "Vontimitta (Kodanda Ramaswamy Temple)", "Gandikota Fort"]
+            }
+
+        },
+        {
+            "Arunachal Pradesh": {
+                "Tawang": ["Tawang Monastery", "Sela Pass", "Nuranang Waterfall"],
+                "Itanagar": ["Itanagar Wildlife Sanctuary", "Ganga Lake", "Ita Fort"],
+                "Ziro": ["Ziro Valley", "Talley Valley Wildlife Sanctuary", "Meghna Cave Temple"],
+                "Bomdila": ["Bomdila Monastery", "Eaglenest Wildlife Sanctuary", "Apple Orchards"],
+                "Pasighat": ["Daying Ering Wildlife Sanctuary", "Pangin", "Siong River"],
+                "Roing": ["Mayudia Pass", "Mehao Lake", "Bhismaknagar Fort"],
+                "Tezu": ["Glow Lake", "Parasuram Kund", "Tezu Botanical Garden"],
+                "Aalo (Along)": ["Hanging Bridge", "Ramakrishna Ashram", "Kane Wildlife Sanctuary"],
+                "Dirang": ["Hot Water Spring", "Dirang Dzong", "Sangti Valley"],
+                "Changlang": ["Namdapha National Park", "Miao", "Lake of No Return"],
+                "Seppa": ["Pakke Wildlife Sanctuary", "Chayang Tajo", "Nafra Village"],
+                "Khonsa": ["Khonsa Museum", "Nocte Tribal Villages", "Kheti Village"],
+                "Anini": ["Mehao Wildlife Sanctuary", "Dibang Valley", "Hunli"],
+                "Namsai": ["Golden Pagoda", "Namsai Monastery", "Chongkham"],
+                "Yingkiong": ["Mouling National Park", "Pangging Village", "Siyom Hanging Bridge"],
+                "Daporijo": ["Subansiri River", "Menga Cave Temple", "Daporijo Bridge"],
+                "Longding": ["Wancho Tribal Villages", "Pangchao", "Niausa Village"],
+                "Basar": ["Bamboo Forests", "Bene Village", "Nyigam River"],
+                "Hawai": ["Hayuliang", "Kibithu", "Walong"],
+                "Tuting": ["Tuting Gompa", "Siko Dido Waterfall", "Pema Mandir"],
+                "Koloriang": ["Kra Daadi Valley", "Nyapin", "Palin"],
+                "Pangin": ["Pangin Bridge", "Siang River", "Adi Tribal Villages"],
+                "Nyapin": ["Nyapin Hot Springs", "Upper Kurung Kumey Valley", "Tali"],
+                "Likabali": ["Malinithan", "Likabali Fort", "Galo Tribal Villages"],
+                "Mechuka": ["Mechuka Valley", "Samten Yongcha Monastery", "Siom River"]
+            }
+        },
+        {
+           "Assam": {
+                "Baksa": ["Manas National Park", "Bogamati", "Chakrashila Wildlife Sanctuary"],
+                "Barpeta": ["Barpeta Satra", "Manas National Park", "Ganakkuchi Satra"],
+                "Biswanath": ["Bura-Chapori Wildlife Sanctuary", "Biswanath Ghat", "Kaziranga National Park (Western Range)"],
+                "Bongaigaon": ["Kakaijana Reserved Forest", "Bagheswari Temple", "Bongaigaon Eco Park"],
+                "Cachar": ["Silchar", "Khaspur Rajbari", "Dolu Lake"],
+                "Charaideo": ["Charaideo Maidam", "Namdang Stone Bridge", "Sukapha Samannay Kshetra"],
+                "Chirang": ["Chirang Reserve Forest", "Bongaigaon Eco Park", "Manas National Park (Southern Range)"],
+                "Darrang": ["Orang National Park", "Patharughat Swaheed Minar", "Kamakshya Devalaya"],
+                "Dhemaji": ["Gerukamukh", "Malini Than", "Gogamukh"],
+                "Dhubri": ["Mahamaya Dham", "Madhusudan Mandir", "Chakrasila Wildlife Sanctuary"],
+                "Dibrugarh": ["Dibrugarh University", "Jokai Botanical Garden", "Dehing Patkai Wildlife Sanctuary"],
+                "Dima Hasao": ["Haflong", "Jatinga", "Maibang"],
+                "Goalpara": ["Naranarayan Setu", "Sri Surya Pahar", "Dadan Hill"],
+                "Golaghat": ["Kaziranga National Park", "Negheriting Shiva Doul", "Ghorakati"],
+                "Hailakandi": ["Hailakandi Eco Park", "Sidrang Hill", "Badarpur Fort"],
+                "Hojai": ["Hojai Lake", "Lanka Sufi Shrine", "Doboka Reserve Forest"],
+                "Jorhat": ["Majuli Island", "Hoollongapar Gibbon Sanctuary", "Tocklai Tea Research Institute"],
+                "Kamrup Metropolitan": ["Kamakhya Temple", "Saraighat Bridge", "Assam State Museum"],
+                "Kamrup": ["Hajo", "Madan Kamdev", "Doul Govinda Temple"],
+                "Karbi Anglong": ["Kaziranga National Park (Eastern Range)", "Diphu", "Bokakhat"],
+                "Karimganj": ["Badarpur Fort", "Malegarh Crematorium", "Son Beel"],
+                "Kokrajhar": ["Chakrashila Wildlife Sanctuary", "Dhubri Bridge", "Kachugaon Game Reserve"],
+                "Lakhimpur": ["Padumoni Devalaya", "Narayanpur", "Kaziranga National Park (Northern Range)"],
+                "Majuli": ["Majuli Island", "Dakhinpat Satra", "Auniati Satra"],
+                "Morigaon": ["Pobitora Wildlife Sanctuary", "Deosal Siva Temple", "Kachasila Hill"],
+                "Nagaon": ["Bordowa Satra", "Kaliabor", "Champawati Kunda"],
+                "Nalbari": ["Hari Mandir", "Billeshwar Temple", "Ganga Pukhuri"],
+                "Sivasagar": ["Rang Ghar", "Talatal Ghar", "Sivasagar Sivadol"],
+                "Sonitpur": ["Nameri National Park", "Bura-Chapori Wildlife Sanctuary", "Agnigarh"],
+                "South Salmara-Mankachar": ["Kumari Satra", "Sri Surya Pahar", "Pir Majhar"],
+                "Tinsukia": ["Dibru-Saikhowa National Park", "Bell Temple", "Rangagora Lake"],
+                "Udalguri": ["Bhairabkunda", "Bogamati", "Rowta Chariali"],
+                "West Karbi Anglong": ["Khanduli", "Umwang", "Amreng"],
+                "Bajali": ["Satra Nagari", "Kumudini Rakh", "Barnagar College"],
+                "Tamulpur": ["Bogamati", "Bornadi Wildlife Sanctuary", "Nalbari Devalaya"]
+            }
+        },
+        {
+            "Bihar": {
+                "Araria": ["Forbesganj Clock Tower", "Madanpur Devi Temple", "Kharagpur Lake"],
+                "Arwal": ["Deo Sun Temple", "Arwal Shakti Peeth", "Janhar Waterfall"],
+                "Aurangabad": ["Deo Sun Temple", "Umga Temple", "Amjhar Sharif"],
+                "Banka": ["Mandar Hill", "Vikramshila University", "Bhagalpur Waterfall"],
+                "Begusarai": ["Kanwar Lake Bird Sanctuary", "Naulakha Temple", "Ajatshatru Fort"],
+                "Bhagalpur": ["Vikramshila University", "Kuppaghat Ashram", "Ghuran Peer Baba"],
+                "Bhojpur": ["Veer Kunwar Singh Fort", "Aranya Devi Temple", "Jagannath Temple"],
+                "Buxar": ["Buxar Fort", "Sita Ram Upadhyaya Museum", "Katkauli Ka Maidan"],
+                "Darbhanga": ["Ahilya Asthan", "Shyama Kali Temple", "Darbhanga Fort"],
+                "East Champaran": ["Motihari", "Kesaria Stupa", "Chakia Raj"],
+                "Gaya": ["Mahabodhi Temple", "Vishnupad Temple", "Dungeshwari Cave Temples"],
+                "Gopalganj": ["Thawe Temple", "Durga Mandir", "Vishnu Temple"],
+                "Jamui": ["Simultala Hill Station", "Giddheshwar Temple", "Kali Mandir"],
+                "Jehanabad": ["Barabar Caves", "Hariharnath Temple", "Sun Temple"],
+                "Kaimur": ["Kaimur Hills", "Karkat Waterfall", "Mundeshwari Temple"],
+                "Katihar": ["Goga Lake", "Katihar Museum", "Manihari Ghat"],
+                "Khagaria": ["Vikramshila Gangetic Dolphin Sanctuary", "Budhiya Mai Temple", "Koshi River"],
+                "Kishanganj": ["Kali Mandir", "Churli Estate", "Haragachh"],
+                "Lakhisarai": ["Ashok Dham", "Surajgarha", "Bhimbandh Wildlife Sanctuary"],
+                "Madhepura": ["Singheshwar Sthan Temple", "Kosi River", "Kosi Barrage"],
+                "Madhubani": ["Madhubani Painting Village", "Kapileshwar Mandir", "Saurath Sabha"],
+                "Munger": ["Munger Fort", "Kastaharni Ghat", "Bihar School of Yoga"],
+                "Muzaffarpur": ["Litchi Gardens", "Gandhi Museum", "Baba Garibnath Temple"],
+                "Nalanda": ["Nalanda University", "Hiuen Tsang Memorial Hall", "Rajgir"],
+                "Nawada": ["Kakolat Waterfall", "Hariya Sun Temple", "Indrasal Cave"],
+                "Patna": ["Golghar", "Patna Sahib Gurudwara", "Kumhrar"],
+                "Purnia": ["Purnia Kali Bari", "Jalalgarh Fort", "Banmankhi"],
+                "Rohtas": ["Rohtasgarh Fort", "Gupteshwar Temple", "Shergarh Fort"],
+                "Saharsa": ["Kosi Mahasetu", "Matsyagandha Temple", "Koshi River"],
+                "Samastipur": ["Khudneshwar Asthan", "Mangalgarh Fort", "Musrigharari"],
+                "Saran": ["Aami Temple", "Chirand", "Ashoka Pillar"],
+                "Sheikhpura": ["Girihinda Hill", "Sheikhpura Museum", "Arghauti Lake"],
+                "Sheohar": ["Chaturbhuj Temple", "Singheshwar Sthan", "Sugia Dam"],
+                "Sitamarhi": ["Janaki Mandir", "Panth Pakar", "Haleshwar Sthan"],
+                "Siwan": ["Maharajganj", "Hasanpura", "Bhikhabandh Shakti Peeth"],
+                "Supaul": ["Birpur Barrage", "Kosi River", "Durga Sthan"],
+                "Vaishali": ["Vishwa Shanti Stupa", "Bawan Pokhar Temple", "Ashoka Pillar"],
+                "West Champaran": ["Valmiki National Park", "Bhitiharwa Ashram", "Triveni Sangam"]
+            }
+        },
+        {
+            "Chhattisgarh": {
+                "Raipur": ["Nandan Van Zoo", "Mahant Ghasidas Memorial Museum", "Purkhouti Muktangan"],
+                "Jagdalpur": ["Chitrakote Falls", "Kanger Valley National Park", "Tirathgarh Waterfalls"]
+            }
+        },
+        {
+            "Goa": {
+                "Panaji": ["Basilica of Bom Jesus", "Dona Paula", "Miramar Beach"],
+                "Margao": ["Colva Beach", "Benaulim Beach", "Church of the Holy Spirit"]
+            }
+        },
+        {
+            "Gujarat": {
+                "Ahmedabad": ["Sabarmati Ashram", "Kankaria Lake", "Sidi Saiyyed Mosque", "Adalaj Stepwell", "Calico Museum of Textiles"],
+                "Amreli": ["Khodiyar Mandir", "Dari Beach", "Bhavani Mata Mandir", "Jafrabad Beach", "Madhavpur Beach"],
+                "Anand": ["Amul Dairy", "Swaminarayan Mandir Vadtal", "Ranchhodrai Dakor Temple", "Khambhat Beach", "Sardar Patel University"],
+                "Aravalli": ["Shamlaji Temple", "Bhagwan Mahavir Wildlife Sanctuary", "Modasa", "Vijaynagar", "Koteshwar Temple"],
+                "Banaskantha": ["Ambaji Temple", "Balaram Palace", "Jessore Sloth Bear Sanctuary", "Palanpur Palace", "Dantiwada Dam"],
+                "Bharuch": ["Golden Bridge", "Narmada Park", "Shoolpaneshwar Wildlife Sanctuary", "Kabirvad", "Nilkantheshwar Temple"],
+                "Bhavnagar": ["Takhteshwar Temple", "Victoria Park", "Ghogha Beach", "Nishkalank Mahadev Temple", "Palitana Temples"],
+                "Bhuj": ["Prag Mahal", "Aina Mahal", "Chhatardi", "Sharad Baug Palace", "Hamirsar Lake"],
+                "Botad": ["Shree Kashtabhanjan Dev Hanumanji Temple (Sarangpur)", "Gadhada Swaminarayan Mandir", "Shri Krishna Pranami Temple", "BAPS Shri Swaminarayan Mandir"],
+                "Chhota Udaipur": ["Kavant Festival", "Kali Niketan", "Jhand Hanuman Temple", "Chhota Udepur Palace", "Sukhi Dam"],
+                "Dang": ["Saputara", "Gira Waterfalls", "Waghai Botanical Garden", "Purna Wildlife Sanctuary", "Hatgadh Fort"],
+                "Devbhoomi Dwarka": ["Nageshwar Jyotirlinga", "Dwarkadhish Temple", "Gopi Talav", "Rukmini Devi Temple", "Beyt Dwarka"],
+                "Dwarka": ["Dwarkadhish Temple", "Nageshwar Jyotirlinga", "Beyt Dwarka", "Rukmini Devi Temple", "Gomti Ghat"],
+                "Gandhinagar": ["Akshardham Temple", "Indroda Nature Park", "Sarita Udyan", "Adalaj Stepwell", "Dandi Kutir"],
+                "Gir Somnath": ["Somnath Temple", "Bhalka Tirth", "Triveni Sangam", "Gir National Park", "Dehotsarg Teerth"],
+                "Jamnagar": ["Dwarkadhish Temple", "Marine National Park", "Lakhota Lake", "Bala Hanuman Temple", "Khijadiya Bird Sanctuary"],
+                "Junagadh": ["Gir National Park", "Mount Girnar", "Uperkot Fort", "Mahabat Maqbara", "Sakkarbaug Zoological Garden"],
+                "Kheda": ["Vadtal", "Shree Santram Mandir", "Galteshwar Mahadev Temple", "Utkanteshwar Mahadev Temple", "Chandod"],
+                "Kutch": ["Rann of Kutch", "Kutch Museum", "Mandvi Beach", "Aina Mahal", "Kala Dungar"],
+                "Mahisagar": ["Champaner-Pavagadh", "Toranmal", "Kalika Mata Temple", "Lunawada", "Khapra Zaveri Palace"],
+                "Mehsana": ["Sun Temple (Modhera)", "Thol Lake Bird Sanctuary", "Bahucharaji Temple", "Shanku's Water Park", "Dharoi Dam"],
+                "Morbi": ["Neelkanth Mahadev Temple", "Green Tower", "Art Deco Palace", "Hanging Bridge", "Shree Jadeshwar Mahadev Mandir"],
+                "Narmada": ["Statue of Unity", "Sardar Sarovar Dam", "Zarwani Waterfall", "Shoolpaneshwar Temple", "Valley of Flowers"],
+                "Navsari": ["Dandi Beach", "Jamshed Baug", "Unai Hot Springs", "Andheshwar Mahadev Temple", "Desai Atash Bahram"],
+                "Panchmahal": ["Champaner-Pavagadh Archaeological Park", "Kalika Mata Temple", "Jambughoda Wildlife Sanctuary", "Nazar Baug Palace", "Ratanmahal Sloth Bear Sanctuary"],
+                "Patan": ["Rani ki Vav", "Sahasralinga Talav", "Patan Patola Heritage", "Kundal Temple", "Hemachandracharya Gyan Mandir"],
+                "Porbandar": ["Kirti Mandir", "Porbandar Beach", "Sudama Mandir", "Bharat Mandir", "Huzoor Palace"],
+                "Rajkot": ["Watson Museum", "Rotary Dolls Museum", "Race Course Grounds", "Kaba Gandhi No Delo", "Aji Dam Garden"],
+                "Sabarkantha": ["Polo Forest", "Idar Hill Fort", "Khedbrahma", "Vijaynagar", "Maldhari Village"],
+                "Surat": ["Dumas Beach", "Science Centre", "Gopi Talav", "Sarthana Nature Park", "Dutch Garden"],
+                "Surendranagar": ["Chotila", "Chamunda Mataji Temple", "Wadhwan Palace", "Wild Ass Sanctuary", "Nalsarovar Bird Sanctuary"],
+                "Tapi": ["Gaumukh", "Gira Falls", "Unai Hot Springs", "Hathgadh Fort", "Padamdungari Eco Campsite"],
+                "Vadodara": ["Laxmi Vilas Palace", "Sayaji Gardens", "Champaner-Pavagadh Archaeological Park", "Baroda Museum and Picture Gallery", "EME Temple"],
+                "Valsad": ["Tithal Beach", "Wilson Hills", "Parnera Hill", "Shri Sai Baba Temple", "Swaminarayan Temple"]
+            }
+        },
+        {
+            "Haryana": {
+                "Ambala": ["Ambala Cantt", "Badshahi Bag Gurudwara", "Rani Ka Talab"],
+                "Bhiwani": ["Baba Mastnath Ashram", "Rani Sati Temple", "Chorasi Khamba"],
+                "Faridabad": ["Badkhal Lake", "Surajkund", "Baba Farid's Tomb"],
+                "Fatehabad": ["Fatehabad Fort", "Rani Talab", "Kali Temple"],
+                "Gurugram": ["Kingdom of Dreams", "Cyber Hub", "Damdama Lake"],
+                "Hisar": ["Hansi Fort", "Sati Mata Temple", "Raja Nahar Singh Palace"],
+                "Jind": ["Jind Fort", "Baba Dham", "Sufi Baba Temple"],
+                "Kaithal": ["Kalpana Chawla Planetarium", "Baba Gora Dham", "Baba Mastnath Ashram"],
+                "Karnal": ["Karnal Lake", "Panipat Museum", "Mughal Gardens"],
+                "Mahendragarh": ["Raja Nahar Singh Palace", "Khwaja Khizir Mosque", "Baba Dham"],
+                "Mewat": ["Nuh", "Panchwati Temple", "Baba Sheikh Farid Dargah"],
+                "Palwal": ["Baba Farid's Tomb", "Saidpur Village", "Panchvati Temple"],
+                "Panchkula": ["Pinjore Gardens", "Mansa Devi Temple", "Nada Sahib Gurudwara"],
+                "Panipat": ["Panipat Museum", "Hemu Samadhi", "Ishwari Temple"],
+                "Rewari": ["Rewari Heritage Museum", "Baba Vasishth Temple", "Aath Havelis"],
+                "Rohtak": ["Tilyar Lake", "Rohtak Fort", "Baba Shah Jamal Dargah"],
+                "Sirsa": ["Dera Sacha Sauda", "Gurudwara Nanaksar", "Rani Talab"],
+                "Sonipat": ["Karna Lake", "Kisan Ghat", "Sandeepani Ashram"],
+                "Yamunanagar": ["Yamuna Nagar Museum", "Chhachhrauli Fort", "Mata Mansa Devi Temple"],
+                "Jhajjar": ["Baba Shah Jamal Dargah", "Jhajjar Fort", "Chirag Dargah"],
+                "Charkhi Dadri": ["Dadri Fort", "Sikh Gurudwara", "Gurudwara Nanak Sar"],
+                "Fatehpur": ["Fatehpur Fort", "Sufi Baba Temple", "Rani Talab"],
+                "Hansi": ["Hansi Fort", "Baba Mastnath Temple", "Sati Mata Temple"],
+                "Nuh": ["Baba Sheikh Farid Dargah", "Panchwati Temple", "Nuh Museum"]
+            }
+        },
+        {
+            "Himachal Pradesh": {
+                "Bilaspur": ["Bhakra Nangal Dam", "Kandrour Bridge", "Sukhi Top"],
+                "Chamba": ["Khajjiar", "Chamba Fort", "Bharmaur"],
+                "Hamirpur": ["Nadaun", "Janjehli", "Rewalsar Lake"],
+                "Kangra": ["McLeod Ganj", "Kangra Fort", "Baijnath Temple"],
+                "Kullu": ["Manali", "Solang Valley", "Rahala Falls"],
+                "Lahaul and Spiti": ["Key Monastery", "Kaza", "Chandra Taal"],
+                "Mandi": ["Prashar Lake", "Mandi Palace", "Bhutnath Temple"],
+                "Shimla": ["The Ridge", "Mall Road", "Jakhoo Temple"],
+                "Sirmaur": ["Renuka Lake", "Paonta Sahib", "Nahan"],
+                "Solan": ["Barog", "Kasauli", "Solan Brewery"],
+                "Una": ["Jwalamukhi Temple", "Chintpurni Temple", "Una Fort"],
+                "Kinnaur": ["Kalpa", "Sangla Valley", "Reckong Peo"]
+            }
+        },
+        {
+            "Jammu and Kashmir": {
+                "Jammu": ["Vaishno Devi Temple", "Raghunath Temple", "Ranbireshwar Temple"],
+                "Srinagar": ["Dal Lake", "Mughal Gardens", "Shankaracharya Temple"],
+                "Anantnag": ["Betaab Valley", "Aru Valley", "Pahalgam"],
+                "Baramulla": ["Gulmarg", "Old Town Baramulla", "Ziarat Baba Shukurddin"],
+                "Budgam": ["Doodh Ganga", "Chashme Shahi", "Sheikh Noor-ud-din Wali Shrine"],
+                "Pulwama": ["Aharbal Waterfall", "Pulwama Town", "Kakapora"],
+                "Kathua": ["Ranjit Sagar Dam", "Sarthal Temple", "Kashmir Shawl Factory"],
+                "Udhampur": ["Kud", "Patnitop", "Mantalai"],
+                "Reasi": ["Vaishno Devi Temple", "Banganga Temple", "Ardhanarishvara Temple"],
+                "Ramban": ["Ramban Town", "Maharani Temple", "Banikhet"],
+                "Doda": ["Bhaderwah", "Jai Valley", "Ramban"],
+                "Kishtwar": ["Kishtwar National Park", "Sinthan Top", "Padder"],
+                "Samba": ["Samba Fort", "Ramgarh", "Mubarak Mandi Palace"],
+                "Poonch": ["Poonch Fort", "Surankote", "Mandi"],
+                "Rajouri": ["Rajouri Fort", "Nazarabad", "Khawas"],
+                "Kargil": ["Kargil War Memorial", "Drass", "Pangong Lake"],
+                "Leh": ["Pangong Lake", "Nubra Valley", "Magnetic Hill"],
+                "Ladakh": ["Leh Palace", "Shanti Stupa", "Tsomoriri Lake"]
+            }
+        },        
+        {
+            "Jharkhand": {
+                "Bokaro": ["Bokaro Steel Plant", "City Park", "Jagannath Temple"],
+                "Chatra": ["Ratua Dam", "Chhath Baba Temple", "Sidheshwar Temple"],
+                "Deoghar": ["Baidhyanath Temple", "Ramakrishna Mission", "Satsang Ashram"],
+                "Dhanbad": ["Jharia", "Birsa Institute of Technology", "Panchet Dam"],
+                "Dumka": ["Baba Baidyanath Temple", "Raghunath Temple", "Satsang Ashram"],
+                "East Singhbhum": ["Tata Steel Plant", "Jubilee Park", "Baidyanath Temple"],
+                "Garhwa": ["Lal Kothi", "Garhwa Fort", "Ramnagar"],
+                "Giridih": ["Khandoli Park", "Jain Temple", "Usri Falls"],
+                "Godda": ["Baba Baidyanath Temple", "Godda Lake", "Baba Ganga Dham"],
+                "Gumla": ["Ranchi University", "Mahatma Gandhi Memorial College", "Kochang"],
+                "Hazaribagh": ["Hazaribagh National Park", "Rajrappa Temple", "Hazaribagh Lake"],
+                "Jamtara": ["Girish Ghat", "Jamtara Fort", "Maheshpur Temple"],
+                "Khunti": ["Ranchi University", "Kochang", "Karma"],
+                "Koderma": ["Koderma Caves", "Kundri", "Mahavir Mandir"],
+                "Latehar": ["Palamu Tiger Reserve", "Lohardaga", "Panki Temple"],
+                "Lohardaga": ["Lohardaga Fort", "Kuru", "Dariyapur"],
+                "Pakur": ["Pakur Fort", "Siddheshwar Temple", "Dhumka"],
+                "Palamu": ["Palamu Fort", "Betla National Park", "Maoist Insurgency Areas"],
+                "Ranchi": ["Jagannath Temple", "Ranchi Lake", "Rock Garden"],
+                "Sahibganj": ["Sri Purnanand Temple", "Sahibganj Fort", "Rajmahal"],
+                "Seraikela-Kharsawan": ["Seraikela Palace", "Kharsawan Fort", "Sri Sri Ram Mandir"],
+                "Simdega": ["Simdega Fort", "Kuchai Temple", "Darekar"],
+                "West Singhbhum": ["Chaibasa", "Ghatshila", "Kukru"],
+                "Rajnagar": ["Rajnagar Palace", "Madhusudan Mandir", "Bagodar"],
+                "Seraikela": ["Seraikela Palace", "Narsingh Temple", "Kharsawan Fort"]
+            }
+        },
+        {
+            "Karnataka": {
+                "Bengaluru": ["Lal Bagh", "Cubbon Park", "Bangalore Palace"],
+                "Mysuru": ["Mysore Palace", "Brindavan Gardens", "Chamundi Hill"]
+            }
+        },
+        {
+            "Kerala": {
+                "Thiruvananthapuram": ["Padmanabhaswamy Temple", "Kovalam Beach", "Napier Museum"],
+                "Kollam": ["Sasthamcotta Lake", "Palaruvi Waterfalls", "Ashtamudi Lake"],
+                "Pathanamthitta": ["Sabarimala Temple", "Perunthenaruvi Waterfalls", "Aranmula Parthasarathy Temple"],
+                "Alappuzha": ["Alleppey Backwaters", "Marari Beach", "Vembanad Lake"],
+                "Kottayam": ["Vembanad Lake", "Elaveezha Poonchira", "Kumarakom Bird Sanctuary"],
+                "Idukki": ["Munnar", "Idukki Dam", "Eravikulam National Park"],
+                "Ernakulam": ["Fort Kochi", "Mattancherry Palace", "Marine Drive"],
+                "Thrissur": ["Vadakkunnathan Temple", "Thrissur Pooram", "Athirappilly Waterfalls"],
+                "Palakkad": ["Silent Valley National Park", "Malampuzha Dam", "Pattambi Nercha"],
+                "Malappuram": ["Tirurangadi", "Nilambur Teak Museum", "Kadalundi Bird Sanctuary"],
+                "Kasaragod": ["Bekal Fort", "Kappil Beach", "Ananthapura Lake Temple"],
+                "Kannur": ["St. Angelo Fort", "Payyambalam Beach", "Muzhappilangad Beach"],
+                "Wayanad": ["Banasura Sagar Dam", "Edakkal Caves", "Soochipara Falls"],
+                "Kozhikode": ["Kappad Beach", "Beypore", "Mananchira Square"]
+            }
+        },
+        {
+            "Madhya Pradesh": {
+                "Bhopal": ["Taj-ul-Masajid", "Upper Lake", "Bharat Bhavan"],
+                "Indore": ["Rajwada", "Lal Bagh Palace", "Sarafa Bazaar"]
+            }
+        },
+        {
+            "Maharashtra": {
+                "Mumbai": ["Gateway of India", "Marine Drive", "Elephanta Caves"],
+                "Pune": ["Shaniwar Wada", "Aga Khan Palace", "Sinhagad Fort"]
+            }
+        },
+        {
+            "Manipur": {
+                "Bishnupur": ["Loktak Lake", "Keibul Lamjao National Park", "Bishnupur Temple"],
+                "Chandel": ["Khongjom War Memorial", "Moulen National Park", "Chandel Park"],
+                "Churachandpur": ["Bualchhuah", "Lamka", "Tuibuong"],
+                "Imphal East": ["Shree Shree Govindajee Temple", "Manipur State Museum", "Wangjing Longping"],
+                "Imphal West": ["Kangla Fort", "Ima Keithel (Women's Market)", "Hiyangthang Lairembi Temple"],
+                "Jiribam": ["Jiribam Railway Station", "Barak River", "Laii"],
+                "Kakching": ["Kakching Garden", "Kakching Dolpata", "Nongdam Island"],
+                "Kamjong": ["Kangkhui Cave", "Khamasom", "Kangla Fort"],
+                "Kangpokpi": ["Kangpokpi District Museum", "Saitu", "Haraothel"],
+                "Noney": ["Noney River", "Noney Hills", "Lainingthou Sanamahi Temple"],
+                "Senapati": ["Kagbeni", "Saramati Peak", "Maram"],
+                "Tamenglong": ["Tamenglong District Museum", "Bunlunching", "Tamei"],
+                "Tengnoupal": ["Mao Gate", "Pallel", "Tengnoupal"],
+                "Thoubal": ["Thoubal Garden", "Thoubal River", "Wangjing"],
+                "Ukhrul": ["Shirui Lily Festival", "Khangkhui Cave", "Ukhrul Town"],
+                "Valley": ["Imphal Valley", "Loktak Lake", "Ima Keithel"]
+            }
+        },
+        {
+            "Meghalaya": {
+                "Shillong": ["Elephant Falls", "Shillong Peak", "Umiam Lake"],
+                "Cherrapunji": ["Living Root Bridges", "Nohkalikai Falls", "Mawsmai Cave"]
+            }
+        },
+        {
+            "Mizoram": {
+                "Aizawl": ["Mizoram State Museum", "Durtlang Hills", "Solomon's Temple"],
+                "Lunglei": ["Zobawk Sports Academy", "Serkawn", "Saikuti Hall"]
+            }
+        },
+        {
+            "Nagaland": {
+                "Kohima": ["Kohima War Cemetery", "Kisama Heritage Village", "Japfu Peak"],
+                "Dimapur": ["Kachari Ruins", "Triple Falls", "Nagaland Science Centre"]
+            }
+        },
+        {
+            "Odisha": {
+                "Bhubaneswar": ["Lingaraj Temple", "Nandankanan Zoo", "Udayagiri and Khandagiri Caves"],
+                "Puri": ["Jagannath Temple", "Puri Beach", "Chilika Lake"]
+            }
+        },
+        {
+            "Punjab": {
+                "Amritsar": ["Golden Temple", "Jallianwala Bagh", "Wagah Border"],
+                "Ludhiana": ["Punjab Agricultural University Museum", "Phillaur Fort", "Rakh Bagh Park"]
+            }
+        },
+        {
+            "Rajasthan": {
+                "Jaipur": ["Amber Fort", "City Palace", "Hawa Mahal"],
+                "Udaipur": ["Lake Pichola", "City Palace", "Jagdish Temple"]
+            }
+        },
+        {
+            "Sikkim": {
+                "Gangtok": ["MG Marg", "Tsomgo Lake", "Rumtek Monastery"],
+                "Pelling": ["Pemayangtse Monastery", "Rabdentse Ruins", "Sanga Choeling Monastery"]
+            }
+        },
+        {
+            "Tamil Nadu": {
+                "Chennai": ["Marina Beach", "Fort St. George", "Kapaleeshwarar Temple"],
+                "Madurai": ["Meenakshi Temple", "Thirumalai Nayakkar Mahal", "Gandhi Museum"]
+            }
+        },
+        {
+            "Telangana": {
+                "Hyderabad": ["Charminar", "Golconda Fort", "Hussain Sagar"],
+                "Warangal": ["Warangal Fort", "Thousand Pillar Temple", "Bhadrakali Temple"]
+            }
+        },
+        {
+            "Tripura": {
+                "Agartala": ["Ujjayanta Palace", "Neermahal", "Tripura Sundari Temple"],
+                "Udaipur": ["Sepahijala Wildlife Sanctuary", "Bhuvaneswari Temple", "Gomati Wildlife Sanctuary"]
+            }
+        },
+        {
+            "Uttar Pradesh": {
+                "Lucknow": ["Bara Imambara", "Rumi Darwaza", "Ambedkar Memorial Park"],
+                "Varanasi": ["Kashi Vishwanath Temple", "Dashashwamedh Ghat", "Sarnath"]
+            }
+        },
+        {
+            "Uttarakhand": {
+                "Dehradun": ["Robber's Cave", "Sahastradhara", "Tapkeshwar Temple"],
+                "Nainital": ["Naini Lake", "Naina Devi Temple", "Snow View Point"]
+            }
+        },
+        {
+            "West Bengal": {
+                "Kolkata": ["Victoria Memorial", "Howrah Bridge", "Indian Museum"],
+                "Darjeeling": ["Tiger Hill", "Batasia Loop", "Darjeeling Himalayan Railway"]
+            }
+        },
+        {
+            "Andaman and Nicobar Islands": {
+                "North and Middle Andaman": ["Rangat", "Mayabunder", "Kalapeni Beach"],
+                "South Andaman": ["Port Blair", "Cellular Jail", "Radhanagar Beach"],
+                "Nicobar": ["Car Nicobar", "Katchal Island", "Nancowry"]
+            }
+        },
+        {
+            "Chandigarh": {
+                "Chandigarh": ["Rock Garden", "Sukhna Lake", "Rose Garden"]
+            }
+        },
+        {
+            "Dadra and Nagar Haveli and Daman and Diu": {
+                "Dadra and Nagar Haveli": ["Silvassa", "Vanganga Lake", "Dudhni Lake"],
+                "Daman": ["Daman Fort", "Jampore Beach", "Devka Beach"],
+                "Diu": ["Diu Fort", "Nagoa Beach", "St. Paul's Church"]
+            }
+        },
+        {
+            "Lakshadweep": {
+                "Kavaratti": ["Agatti Island", "Bangaram Atoll", "Kalpeni Island"]
+            }
+        },
+        {
+            "Delhi": {
+                "North Delhi": ["Red Fort", "Jantar Mantar", "Rani Jhansi Park"],
+                "North West Delhi": ["Rohini", "Mahatma Gandhi Memorial", "Karol Bagh Market"],
+                "North East Delhi": ["Shahdara", "Seelampur", "Babarpur"],
+                "West Delhi": ["Rajouri Garden", "Dwarka", "Janakpuri District Centre"],
+                "South West Delhi": ["Vasant Kunj", "Saket", "Mehrauli"],
+                "South Delhi": ["Qutub Minar", "Lotus Temple", "Hauz Khas Village"],
+                "Central Delhi": ["India Gate", "Connaught Place", "Rashtrapati Bhavan"],
+                "East Delhi": ["Laxmi Nagar", "Vikramshila Complex", "Akshardham Temple"],
+                "New Delhi": ["India Gate", "Rashtrapati Bhavan", "Humayun's Tomb"],
+                "South East Delhi": ["Greater Kailash", "Okhla", "Kalkaji"]
+            }
+        },
+        {
+            "Puducherry": {
+                "Puducherry": ["Sri Aurobindo Ashram", "Auroville", "Promenade Beach"],
+                "Karaikal": ["Karaikal Beach", "Nedungadu", "Karaikal Ammaiyar Temple"],
+                "Mahe": ["Mahe Beach", "Parappuram", "Mahe Fort"],
+                "Yanam": ["Yanam Beach", "French Memorial", "Buddha Temple"]
+            }
+        }
+        
+    ]
+}
